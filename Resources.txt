@@ -31,5 +31,7 @@
 
 ## Resources ##
 
+Bootsrap
 Particle.js
 Textillate.js
+eel python
