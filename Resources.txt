@@ -48,3 +48,4 @@ Siri Wave javascript
 
 #    #    #    <!-- pip --!>    #    #    #
 pip install playsound==1.2.2
+pip install pyttsx3
