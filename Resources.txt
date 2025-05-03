@@ -27,6 +27,10 @@
 	 <!-- Texllate -->
 	<script src="http://jschr.github.io/textillate/jquery.textillate.js"></script>
 
+    <!-- Particle js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery-ui.min.js"></script>
+
 
 
 ## Resources ##
@@ -35,3 +39,12 @@ Bootsrap
 Particle.js
 Textillate.js
 eel python
+
+Bootsrap icons
+
+Siri Wave javascript
+
+
+
+#    #    #    <!-- pip --!>    #    #    #
+pip install playsound==1.2.2
